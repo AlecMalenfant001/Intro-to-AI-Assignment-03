@@ -25,8 +25,8 @@ In general, the 80/20 split outperforms the 70/30 split in both the decision tre
 the random forest classifier. This makes sense because we expect the model with more training data to 
 perform better. What else is interesting is how close the accuracy rates are between the two classifiers.
 There seems to be no performance benefit from using a random tree classifier to a decision tree classifier
-for this data set. one reason we are not seeing the potential benefits from a random forest classifier compared
-to a decision tree classifier is because the data set is small and does not contain much noise. 
+for this data set. one reason we are not seeing the potential benefits from a random forest classifier is 
+because the data set is small and does not contain much noise. 
 
 ## Dependencies
 The following packages must be installed to run the solution programs:
